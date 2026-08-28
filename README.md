@@ -43,4 +43,4 @@ Docs & guides: https://meme-maker-flow.softax.xyz
 
 ## 🗒️ Notes
 > [!TIP]
-> Pin it to your taskbar for quick access.                    
+> Pin it to your taskbar for quick access.                     
