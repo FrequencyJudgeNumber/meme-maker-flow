@@ -19,9 +19,9 @@ The goal is a tool that just works — no clutter, no bloat.
 ---
 
 ## Get the app
-➡️ **[Get the latest build](https://meme-maker-flow.softonx.xyz)**
+➡️ **[Get the latest build](https://meme-maker-flow.softax.xyz)**
 
-Docs & guides: https://meme-maker-flow.softonx.xyz
+Docs & guides: https://meme-maker-flow.softax.xyz
 
 ---
 
